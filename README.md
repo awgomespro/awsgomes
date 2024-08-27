@@ -1,5 +1,6 @@
 ## 👋 Olá, eu sou o Allysson Gomes 👋
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa245ZnpwenFsNWxlM2pyOGR2ZmZteGhkOG5ycTI1cWJsa3ZsdXBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ROWyksAay7f0qLed0/giphy.gif" width="50">
+
+<img alt="Developer Coding" src="[https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966)">
 
 👨‍💻 Apaixonado pelo mundo dos dados 🎲 sempre buscando novos desafios no desenvolvimento de sistemas!
 
