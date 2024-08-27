@@ -1,8 +1,17 @@
 ## 👋 Olá, eu sou o Allysson Gomes 👋
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa245ZnpwenFsNWxlM2pyOGR2ZmZteGhkOG5ycTI1cWJsa3ZsdXBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ROWyksAay7f0qLed0/giphy.gif" width="50">
 
 👨‍💻 Apaixonado pelo mundo dos dados 🎲 sempre buscando novos desafios no desenvolvimento de sistemas!
 
 > "Não sabendo que era impossível, ele foi lá e fez." - Jean Cocteau
+
+```javascript
+var allysson = {
+  code: [Javascript, HTML, CSS, PHP, Python],
+  ferramentas: [Django, Node],
+  especialidades: [SQL, Postgres],
+}
+```
 
 ## 🛠️ Habilidades: 
 - 🗄️ Banco de Dados (Sql Server, Postgres)
